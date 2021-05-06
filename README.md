@@ -1,2 +1,2 @@
-# ChickenForAlive
-The repository is my homework, it is about the game"Survival of the Jedi".
+# Knight of vitality
+The repository is my homework, it is about the game"Knight of vitality".
